@@ -1,4 +1,4 @@
----
+﻿---
 title: Getting Started
 pageTitle: "Getting Started with GraphQL, React & Apollo Tutorial"
 description: Start building a Hackernews clone. Create the frontend with create-react-app and the backend with Prisma.
@@ -245,6 +245,8 @@ That's it, you're all set to start for loading some data into your app! 😎
 #### Downloading the server code
 
 As mentioned above, for the backend in this tutorial you'll simply use the final project from the [Node tutorial](https://www.howtographql.com/graphql-js/0-introduction).
+
+Note: Please make sure your Node version is 8.6.0 or higher.
 
 <Instruction>
 
